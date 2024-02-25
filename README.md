@@ -51,7 +51,7 @@ https://cooking.nytimes.com/68861692-nyt-cooking/1324291-ramadan-main-dishes
     http://www-db.deis.unibo.it/
     http://info.cern.ch/hypertext/WWW/TheProject.html
 
-# You  may install the package from
+# To install the package
 ```
-https://github.com/Yehor-Mishchyriak/Simple-Web-Proxy-and-Client.git
+git clone https://github.com/Yehor-Mishchyriak/Simple-Web-Proxy-and-Client.git
 ```
